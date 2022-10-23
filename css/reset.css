@@ -1,0 +1,55 @@
+body{
+    background-color: #5ad5a9;
+}
+
+main{ 
+    width: 900px;
+    height: 400px;
+}
+
+#left{
+    display: inline-block;
+    width: 15%;
+    margin-left: 0%;
+}
+
+#search {
+    display: inline-block;
+    width: 15%;
+    margin-left: 0px;
+}
+
+#right{
+    background-color: #5ad5a9;
+    display: inline-block;
+    width: 55%;
+    padding-left: 15%;
+    margin-right: 5%;
+    text-align: center;
+}
+
+h1, p {
+    color: #000000;
+}
+
+h1{
+    font-size: 30px;
+}
+
+#small{
+    margin-top: 20px;
+    color: #000000;
+}
+
+button{
+    margin-top: 15px;
+    background-color: #d54463;
+    border: none;
+    color: white;
+    font-size: 15px;
+    padding: 20px;
+    padding-right: 200px;
+    padding-left: 200px;
+    font-size: 900;
+    letter-spacing: 2px;
+}

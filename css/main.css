@@ -1,0 +1,40 @@
+body {
+    background-color:  #5ad5a9;
+}
+
+#search {
+    position: absolute;
+    top: 0;
+    border: 1px solid #6abbb0;
+    border-radius: 50px;
+    text-align:start;
+    color: #6abbb0;
+    padding-left: 1px;
+    width: 300px;
+    height: 20px;
+
+}
+
+p {
+   font-size: 15px; 
+}
+
+#right {
+    font-family: 'Encode Sans', sans-serif;
+    letter-spacing: 2px;
+    position: absolute;
+     top: 400px;
+     width: 600px;
+     height: 100px;
+}
+
+#taco {
+    margin-top: 100px;
+    margin-left: 200px;
+    padding-bottom: 350px;
+    position: absolute;
+    top: 0;
+    width: 50px;
+    padding-left: 1px;
+}
+
